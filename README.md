@@ -64,9 +64,11 @@ Insights que podem ser obtidos
 
     Comportamento de compra:
 
-        A quantidade média por pedido mostra se os produtos são comprados em grandes quantidades (atacado) ou unitariamente (varejo)
+        A quantidade média por pedido mostra se os produtos são comprados em grandes quantidades (atacado)
+        ou unitariamente (varejo)
 
-        A comparação entre quantidade total e número de pedidos revela padrões (muitas compras pequenas vs poucas compras grandes)
+        A comparação entre quantidade total e número de pedidos revela padrões (muitas compras pequenas vs
+        poucas compras grandes)
 
     Qualidade dos dados:
 
