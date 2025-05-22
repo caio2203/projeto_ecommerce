@@ -1,6 +1,8 @@
 # projeto_ecommerce
 Funcionalidade Geral
 
+Análise feita por um iniciante
+
 Este código Python em um notebook Jupyter realiza uma análise de dados de e-commerce a partir de um arquivo CSV, gerando um relatório dos 10 produtos mais vendidos com informações complementares sobre padrões de compra.
 Fluxo Detalhado
 
